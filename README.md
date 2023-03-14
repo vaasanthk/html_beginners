@@ -20,7 +20,9 @@ The timings of the shop and how to contact.
   Use Live Server for a Quick Development Live Server with live browser reload.
   Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
+  ```
   ext install ritwickdey.LiveServer
+  ```
 
 ## Run the Repo
 
