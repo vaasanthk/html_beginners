@@ -33,4 +33,3 @@ https://github.com/vaasanthk/html_beginners.git
 ```
 
 # Thank you!
-# html_beginners
