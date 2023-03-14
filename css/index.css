@@ -1,0 +1,83 @@
+html {
+  font-size: medium;
+}
+
+body {
+  background-color: rgb(12, 18, 21);
+  color: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2.5rem;
+  font-family: "Garamond";
+}
+
+a {
+  color: rgb(95, 174, 117);
+  font-size: large;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  color: #a5ecd7;
+}
+
+h2 {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+p {
+  margin-left: 2rem;
+  font-size: large;
+}
+
+h3 {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+summary {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+table {
+  border-collapse: separate;
+  border: 1px solid black;
+  margin-left: 2rem;
+}
+
+th,
+td,
+caption {
+  border: 1px solid rgb(225, 221, 221);
+  padding: 0.5rem;
+}
+
+caption {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0.1rem;
+}
+
+button {
+  background-color: #10bfb3; /* Green */
+  border: none;
+  color: rgb(16, 4, 4);
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #112d3c; /* Darker green */
+  color: whitesmoke;
+}
